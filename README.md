@@ -25,4 +25,4 @@ Creat：
 
 -TITULO WHILE: somente a cobra azul da logo python;
 
--TITULO FOR: somente a amarela da logo python;
+-TITULO FOR: somente a cobra amarela da logo python;
