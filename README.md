@@ -16,7 +16,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Estrutura de repetição em Python: While vs For!                                                                                                                                                                                                   |
-| conteúdo | com base no título forncedio, elabore um artigo curto com explicação susinta e de conversa descontraída, discursa sobre o while e o for e de um exemplo de código simples.
+| conteúdo | com base no título fornecido, elabore um artigo curto com explicação sucinta e de conversa descontraída, discurse sobre o while e o for e de um exemplo de código simples..
 
 
 Creat：
